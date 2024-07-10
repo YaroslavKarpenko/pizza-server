@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Margherita",
+    "origin": "Italy",
+    "category": "italian",
+    "rating": 4.5,
+    "feedback": 50,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium"],
+    "price": 250,
+    "img": "https://images.unsplash.com/photo-1601924582970-9238bcb495d9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Pepperoni",
+    "origin": "Italy",
+    "category": "italian",
+    "rating": 4.3,
+    "feedback": 18,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 280,
+    "img": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Hawaiian",
+    "origin": "Cuba",
+    "category": "mexican",
+    "rating": 3.8,
+    "feedback": 12,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 300,
+    "img": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Four Cheese",
+    "origin": "France",
+    "category": "neapolitan",
+    "rating": 4.4,
+    "feedback": 33,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 320,
+    "img": "https://images.unsplash.com/photo-1552539618-7eec9b4d1796?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjV8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Vegetarian",
+    "origin": "Germany",
+    "category": "canadian",
+    "rating": 2.5,
+    "feedback": 5,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["medium", "large"],
+    "price": 390,
+    "img": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2024/01/2023D192_MULTICARB_PIZZA_2__-1-768x960.jpg"
+  },
+  {
+    "name": "Meat Lovers",
+    "origin": "Germany",
+    "category": "american",
+    "rating": 4.1,
+    "feedback": 47,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 330,
+    "img": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjN8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Mexican",
+    "origin": "United States",
+    "category": "mexican",
+    "rating": 5,
+    "feedback": 80,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 310,
+    "img": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MzJ8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Supreme Pepperoni",
+    "origin": "Italy",
+    "category": "american",
+    "rating": 3.9,
+    "feedback": 24,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 350,
+    "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MzR8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Four Seasons",
+    "origin": "Ukraine",
+    "category": "neapolitan",
+    "rating": 4.75,
+    "feedback": 77,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 340,
+    "img": "https://images.unsplash.com/photo-1566843972142-a7fcb70de55a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NDF8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "BBQ Chicken",
+    "origin": "United States",
+    "category": "canadian",
+    "rating": 4,
+    "feedback": 83,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium"],
+    "price": 360,
+    "img": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NTB8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Marinara",
+    "origin": "France",
+    "category": "Italian",
+    "rating": 3.5,
+    "feedback": 53,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 370,
+    "img": "https://images.unsplash.com/photo-1573821663912-569905455b1c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NTd8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Mushroom",
+    "origin": "Mexico",
+    "category": "neapolitan",
+    "rating": 3.8,
+    "feedback": 45,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "medium", "large"],
+    "price": 380,
+    "img": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "new pizza",
+    "origin": "Italy",
+    "category": "neapolitan",
+    "rating": 3.6,
+    "feedback": 29,
+    "doughTypes": ["thin", "thick"],
+    "sizes": ["small", "large"],
+    "price": 195,
+    "img": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

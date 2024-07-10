@@ -1,0 +1,5 @@
+MONGODB_URI=mongodb+srv://uri
+PORT=port
+NODE_ENV=dev
+REDIS_SECRET=secret
+REDIS_URI=redis://127.0.0.1:redis_port
